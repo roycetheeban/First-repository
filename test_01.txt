@@ -1,2 +1,6 @@
 new file open
-git
+making changes in desktop making any changes in github 
+print("what the duck")
+zimba sleeping
+hi
+hibye
